@@ -1,17 +1,6 @@
 # Hi there, I'm Adham Desouky 👋
 
-**AI Engineer & Data Scientist** · University Teaching Assistant — Deep Learning
-
----
-
-## About Me
-
-I'm a passionate AI and Data Science practitioner currently serving as a **University Teaching Assistant** for a **Deep Learning course**, where I design assignments and guide students through modern neural network architectures and AI systems. Alongside teaching, I'm actively building toward real-world AI and Data Science projects.
-
-- 🎓 **TA** — Deep Learning course (University)
-- 🔭 **Currently building** — AI / Data Science projects
-- 🌱 **Exploring** — MLOps, advanced architectures, and scalable ML systems
-- 💡 **Interests** — Computer Vision, NLP, Generative AI
+**AI Engineer & Data Scientist**
 
 ---
 
