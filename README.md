@@ -28,8 +28,6 @@
 AI Engineer specializing in bridging the gap between raw data and deployment-ready AI products. Experience spans building enterprise-grade **Agentic RAG pipelines** with strict evaluation guardrails, fine-tuning **Deep Learning models** for medical imaging, and developing **hybrid OCR/LLM text-restoration systems**.
 
 * 🎯 **Focus Areas:** Agentic AI Systems, RAG Evaluation & Guardrails, Vector Search Optimization, Medical Computer Vision.
-* 🎓 **Academic Background:** B.Sc. in Computer Science (Biomedical Informatics Track) | GPA 3.73/4.0 | Highest Honors.
-* 🏫 **Teaching Experience:** Taught 23+ Deep Learning labs to senior students at Cairo University.
 
 ---
 
@@ -51,43 +49,19 @@ AI Engineer specializing in bridging the gap between raw data and deployment-rea
 
 ---
 
-### 🚀 Featured AI Engineering Projects
-
-#### 1. Autonomous Context Engine (ACE) — Agentic RAG Platform
-*Architected an enterprise-grade agentic retrieval engine equipped with automated evaluation and self-correction loop.*
-* **Core Stack:** Python, LangGraph, MCP, OpenAI API, Qdrant, FastEmbed, FastAPI, Docker Compose
-* **Key Achievements:**
-  * Implemented a **hybrid search pipeline** combining dense (`BGE`) and sparse (`SPLADE`) embeddings via ONNX FastEmbed, utilizing **Reciprocal Rank Fusion (RRF)** and MS MARCO cross-encoder reranking.
-  * Engineered an **LLM-as-a-Judge grading loop** evaluating document relevance, hallucination grounding, and answer utility with self-critique query regeneration.
-  * Containerized architecture with Docker Compose and integrated a **DeepEval regression suite** achieving **1.0/1.0** scores on Faithfulness and Answer Relevancy benchmarks.
-
-#### 2. Detcetra-AI — Medical Imaging Classification Platform *(2nd Place Graduation Project)*
-*Full-stack clinical AI platform designed for automated breast implant status classification.*
-* **Core Stack:** PyTorch, FastAPI, React 19, PostgreSQL, DICOM Integration
-* **Key Achievements:**
-  * Fine-tuned **ResNet-50** and **EfficientNet-B0** using transfer learning, Focal Loss, and AdamW optimizer on low-quality mammography datasets, reaching **0.76 ROC-AUC**.
-  * Developed a role-based access control (RBAC) platform complete with a interactive **DICOM web viewer**, confidence scoring, and automated PubMed clinical research retrieval.
-
-#### 3. Faded Document Restoration with LLM Post-Correction *(1st Place UGRF Winner)*
-*Hybrid computer vision and generative AI pipeline for processing degraded archival documents.*
-* **Core Stack:** OpenCV, Tesseract OCR, Gemini API, Gradio, Hugging Face
-* **Key Achievements:**
-  * Built a multi-stage image processing pipeline (adaptive thresholding, noise reduction, sharpening) across 200+ faded document pages.
-  * Prompt-engineered Gemini LLM to consolidate 5 distinct OCR variants into a unified transcription, achieving an **80% readability boost** measured via Levenshtein distance.
-
----
-
 ### 📈 GitHub Analytics & Statistics
 
+<!-- Most Used Languages & WakaTime Stats Side-by-Side -->
 <div align="center">
-
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=AdhamDesouky&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdhamDesouky&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
-
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdhamDesouky&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=AdhamDesouky&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
 </div>
 
+<br />
+
+<!-- Snake Contribution Animation -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdhamDesouky&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/AdhamDesouky/AdhamDesouky/output/github-snake-dark.svg" alt="Snake Contribution Graph" width="100%" />
 </p>
 
 ---
