@@ -48,24 +48,7 @@ AI Engineer specializing in bridging the gap between raw data and deployment-rea
 | **Frontend & Systems** | React 19, TypeScript, C++, Streamlit, Gradio |
 
 ---
-
-### 📈 GitHub Analytics & Statistics
-
-<!-- Most Used Languages & WakaTime Stats Side-by-Side -->
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdhamDesouky&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
-  <img height="180" src="https://wakatime.com/badge/user/6c223c10-42f9-4c52-91da-b65a4669f5de.svg" alt="WakaTime Stats" />
-</div>
-
-<br />
-
 <!-- Snake Contribution Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/AdhamDesouky/AdhamDesouky/output/github-snake-dark.svg" alt="Snake Contribution Graph" width="100%" />
 </p>
-
----
-
-<div align="center">
-  <sub>Built by Adham Desouky • AI Engineer</sub>
-</div>
