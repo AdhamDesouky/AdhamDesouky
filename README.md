@@ -54,7 +54,7 @@ AI Engineer specializing in bridging the gap between raw data and deployment-rea
 <!-- Most Used Languages & WakaTime Stats Side-by-Side -->
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdhamDesouky&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=6c223c10-42f9-4c52-91da-b65a4669f5de&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
+  <img height="180" src="https://wakatime.com/badge/user/6c223c10-42f9-4c52-91da-b65a4669f5de.svg" alt="WakaTime Stats" />
 </div>
 
 <br />
