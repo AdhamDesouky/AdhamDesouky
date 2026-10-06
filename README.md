@@ -1,44 +1,32 @@
-# Hi there, I'm Adham Desouky 👋
+<h1 align="center">Adham Desouky</h1>
 
-**AI Engineer & Data Scientist**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=AI+Engineer;LLM+%26+RAG+Developer;Deep+Learning+Specialist" alt="Typing Title Animation" />
+</p>
 
----
+I am an AI engineer who turns messy, real-world data into systems people can trust. My focus spans from handling noisy medical scans and faded archival documents to building LLM and RAG pipelines with built-in evaluation and guardrails. I previously taught deep learning fundamentals at Cairo University[cite: 1].
 
-## Skills
+### 🛠️ Technical Stack
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,postgres,react,ts,cpp,git" alt="Skill Icons" />
+  </a>
+</p>
 
-**Languages:** Python · C++ · Java · JavaScript  
-**AI / ML:** Deep Learning · Machine Learning · Computer Vision · NLP  
-**Frameworks & Libraries:** PyTorch · TensorFlow · scikit-learn · NumPy · pandas  
-**Tools:** Jupyter · Git · Linux  
+* **LLMs & Agentic AI:** LangGraph, LangChain, Model Context Protocol (MCP)[cite: 1]
+* **RAG & Search:** Hybrid Search, Qdrant, RRF, Cross-encoder Reranking[cite: 1]
+* **ML & Computer Vision:** CNNs, OpenCV, Hugging Face, Scikit-learn[cite: 1]
 
----
+### 🚀 Key Architecture & Projects
 
-## Projects
+| Project | Tech Stack | Core Outcomes |
+| :--- | :--- | :--- |
+| **Autonomous Context Engine (ACE)**[cite: 1] | Python, LangGraph, Qdrant, FastAPI, Docker Compose[cite: 1] | Built an agentic RAG system with hybrid search and an LLM-as-a-Judge evaluation loop, scoring 1.0 on Faithfulness metrics[cite: 1]. |
+| **Detcetra-AI**[cite: 1] | PyTorch, React 19, FastAPI, PostgreSQL[cite: 1] | Fine-tuned CNNs (EfficientNet-B0, ResNet-50) on low-quality mammography data, delivering a complete end-to-end clinical platform[cite: 1]. |
+| **Document Restoration Pipeline**[cite: 1] | OpenCV, Tesseract OCR, Gemini API, Gradio[cite: 1] | Engineered a computer vision pipeline with LLM post-correction that improved OCR readability by 80%[cite: 1]. |
 
-| Project | Description | Tech |
-|---|---|---|
-| [bi-GRU-CodeClassifier](https://github.com/AdhamDesouky/bi-GRU-CodeClassifier) | Bidirectional GRU model that classifies programming languages from code snippets | Python · Deep Learning · NLP |
-| [FadedTextRestoration](https://github.com/AdhamDesouky/FadedTextRestoration) | Restoration of faded / degraded text in document images | Python · Computer Vision |
-| [ckd-assignment-template](https://github.com/AdhamDesouky/ckd-assignment-template) | Chronic Kidney Disease diagnostic pipeline — Deep Learning course assignment | Python · Jupyter · ML |
-| [NeuroSpec](https://github.com/AdhamDesouky/NeuroSpec) | Desktop & mobile clinic management application | App Development |
-| [Bank-Management-System](https://github.com/AdhamDesouky/Bank-Management-System) | Bank employee system for account and transaction management | HTML |
-| [Text-Search-Engine](https://github.com/AdhamDesouky/Text-Search-Engine) | Efficient search engine for locating terms across large text corpora | HTML |
-| [Pharmacy-GUI](https://github.com/AdhamDesouky/Pharmacy-GUI) | Menu-driven pharmacy management system with drug and order management | Java |
-| [Graphing_calculator_python](https://github.com/AdhamDesouky/Graphing_calculator_python) | Graphing calculator built in Python | Python |
-| [Graphing_Represting](https://github.com/AdhamDesouky/Graphing_Represting) | Graph representation and algorithms project | C++ |
-
----
-
-## Links & Handles
-
-> Update the links below with your actual profiles.
-
-| Platform | Link |
-|---|---|
-| 💼 LinkedIn | [your-linkedin-url](#) |
-| 🌐 Portfolio | [your-portfolio-url](#) |
-| 📧 Email | your-email@example.com |
-| 🎓 Google Scholar | [your-scholar-profile](#) |
-| 📊 Kaggle | [your-kaggle-profile](#) |
-| 🤗 Hugging Face | [your-hf-profile](#) |
-| 🐦 X / Twitter | [@your-handle](#) |
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdhamDesouky&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=2563EB" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdhamDesouky&theme=transparent&hide_border=true&title_color=2563EB&icon_color=2563EB" alt="GitHub Streak" width="48%" />
+</p>
