@@ -2,8 +2,11 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Automatically runs every 12 hours
-  workflow_dispatch: # Allows manual trigger anytime
+    - cron: "0 */12 * * *" # Runs every 12 hours
+  workflow_dispatch: # Allows manual triggering
+
+permissions:
+  contents: write
 
 jobs:
   generate:
@@ -11,19 +14,21 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      # Generates the snake animation SVG files from your GitHub contribution grid
-      - name: Generate github-contribution-grid-snake.svg
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate github-snake-dark.svg (All-Time)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          years: 0 # 0 fetches all years from account creation
           outputs: |
             dist/github-snake-dark.svg?palette=github-dark
 
-      # Pushes the generated SVGs to an isolated 'output' branch
       - name: Deploy to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          empty_commit: true
